@@ -1,0 +1,8 @@
+aspect-ratio: 1 / 1;
+aspect-ratio: 1;
+
+/* Global values */
+aspect-ratio: inherit;
+aspect-ratio: initial;
+aspect-ratio: revert;
+aspect-ratio: unset;
